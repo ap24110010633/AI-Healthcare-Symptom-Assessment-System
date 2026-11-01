@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Decision Tree,0.6557377049180327,0.6712204007285975,0.6557377049180327,0.6371584699453551
+Random Forest,1.0,1.0,1.0,1.0
+Extra Trees,1.0,1.0,1.0,1.0
+KNN,1.0,1.0,1.0,1.0
